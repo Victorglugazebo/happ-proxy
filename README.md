@@ -1,6 +1,6 @@
 ## Happ - Proxy Utility
 
-Доступно для:
+Available for:
 
 * **iOS**
 * **Android**
@@ -8,14 +8,14 @@
 * **macOS**
 * **Linux**
 
-Скачать актуальные версии приложения можно в разделе **Releases** соответствующего репозитория.
+You can download the latest versions from the **Releases** section of the corresponding repository.
 
-Happ — это мобильное приложение для удобного управления прокси-серверами на базе Xray core. Приложение предлагает понятный интерфейс и набор полезных функций для настройки подключений.
+Happ is a mobile application designed for convenient proxy server management, powered by the robust Xray core. The app features an intuitive interface and a range of useful functions, making it an essential tool for managing connections.
 
-**Основные возможности:**
+**Key features of Happ include:**
 
-* Гибкая настройка прокси-серверов с использованием правил маршрутизации.
-* Поддержка современных протоколов:
+* Configuration of proxy servers based on flexible routing rules.
+* Support for multiple modern protocols:
 
   * **VLESS (Reality)**
   * **VMess**
@@ -23,8 +23,8 @@ Happ — это мобильное приложение для удобного 
   * **Shadowsocks**
   * **Socks**
 
-Happ не собирает данные пользователей — вся информация хранится исключительно на вашем устройстве и не передаётся на внешние серверы.
+Happ ensures your network activity remains private by not collecting any data; all information stays exclusively on your device and is never sent to external servers.
 
-Важно: Happ не предоставляет VPN-сервисы и не продаёт серверы. Пользователи самостоятельно подключают или настраивают свои серверы и несут ответственность за соблюдение законодательства своей страны.
+It is important to note that Happ does not provide VPN services or sell servers. Users are responsible for acquiring or setting up their own servers and must comply with the laws applicable in their jurisdiction.
 
-Для сообщения об ошибках используйте issue tracker проекта.
+To report a problem, please use the project’s issue tracker.
